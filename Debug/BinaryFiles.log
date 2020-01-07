@@ -1,0 +1,5 @@
+﻿  Data.cpp
+  main.cpp
+c:\users\s199093\source\repos\codedesign\binaryfiles\main.cpp(17): error C2660: 'Data::records': function does not take 0 arguments
+  c:\users\s199093\source\repos\codedesign\binaryfiles\data.h(21): note: see declaration of 'Data::records'
+  Generating Code...
